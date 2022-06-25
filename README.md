@@ -1,31 +1,10 @@
-# My App svelte
+# playing with framework7 and haraj api ......
 
 ## Framework7 CLI Options
 
 Framework7 app created with following options:
 
-```
-{
-  "cwd": "/home/omar/coding/framework7/basic_svelte",
-  "type": [
-    "web",
-    "pwa"
-  ],
-  "name": "My App svelte",
-  "framework": "svelte",
-  "template": "single-view",
-  "bundler": "vite",
-  "cssPreProcessor": false,
-  "theming": {
-    "customColor": false,
-    "color": "#007aff",
-    "darkTheme": false,
-    "iconFonts": true,
-    "fillBars": false
-  },
-  "customBuild": false
-}
-```
+
 
 ## Install Dependencies
 
