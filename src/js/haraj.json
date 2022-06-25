@@ -1,0 +1,263 @@
+{
+    "data": {
+        "posts": {
+            "items": [
+                {
+                    "id": 95978520,
+                    "status": true,
+                    "authorUsername": "عارف الشمري 18098",
+                    "title": "ايفون 11 اصفر استخدام ثلاث اشهر",
+                    "city": "الشرقيه",
+                    "postDate": 1655915051,
+                    "updateDate": 1655915051,
+                    "hasImage": true,
+                    "thumbURL": "675x900_D67CF9EE-60C1-46DF-8943-CD2110772295.jpg",
+                    "authorId": 17376395
+                },
+                {
+                    "id": 95978518,
+                    "status": true,
+                    "authorUsername": "عضو 2008774",
+                    "title": "فيفا22",
+                    "city": "الرياض",
+                    "postDate": 1655915049,
+                    "updateDate": 1655915049,
+                    "hasImage": true,
+                    "thumbURL": "900x506_CDA6FDEA-F06F-46FE-BB41-5F8A9F0CBDFA.jpg",
+                    "authorId": 16514566
+                },
+                {
+                    "id": 95978515,
+                    "status": true,
+                    "authorUsername": "mllok0",
+                    "title": "شاهد الباقة الرياضية حساب خاص فيك 25 ريال",
+                    "city": "الرياض",
+                    "postDate": 1655915047,
+                    "updateDate": 1655915047,
+                    "hasImage": true,
+                    "thumbURL": "900x506_06FBB31E-619D-4A30-9890-0EBB07D619E0.jpg",
+                    "authorId": 14543433
+                },
+                {
+                    "id": 95978514,
+                    "status": true,
+                    "authorUsername": "مصطفى 171183",
+                    "title": "طابعة HP Officejet 8620 تحتاج صيانة",
+                    "city": "جده",
+                    "postDate": 1655915046,
+                    "updateDate": 1655915046,
+                    "hasImage": true,
+                    "thumbURL": "800x600-1_-GO__MTY1NTkxNDkwNzc0NjQ0MTIxNjkzNQ.jpg",
+                    "authorId": 2844758
+                },
+                {
+                    "id": 95978511,
+                    "status": true,
+                    "authorUsername": "عبدالرحمن الدوسري٣",
+                    "title": "ايفون 7 للبيع",
+                    "city": "الرياض",
+                    "postDate": 1655915043,
+                    "updateDate": 1655915043,
+                    "hasImage": true,
+                    "thumbURL": "691x900_8478BC35-D68F-4291-AE96-8D9DCAF22242.jpg",
+                    "authorId": 3598757
+                },
+                {
+                    "id": 95978497,
+                    "status": true,
+                    "authorUsername": "sgrh7",
+                    "title": "سماعة A10 نضيفه مضاده للكسر",
+                    "city": "الرياض",
+                    "postDate": 1655915031,
+                    "updateDate": 1655915031,
+                    "hasImage": true,
+                    "thumbURL": "675x900_37308720-CFCC-4234-9ADB-DE3E6CD50FA0.jpg",
+                    "authorId": 13589658
+                },
+                {
+                    "id": 95978474,
+                    "status": true,
+                    "authorUsername": "khalid_1996",
+                    "title": "يد نيكون للبيع مافيها اي شي",
+                    "city": "الشرقيه",
+                    "postDate": 1655915014,
+                    "updateDate": 1655915014,
+                    "hasImage": true,
+                    "thumbURL": "675x900_4770093D-1D8F-42A0-A857-A729DEAE9AEC.jpg",
+                    "authorId": 2492826
+                },
+                {
+                    "id": 95978472,
+                    "status": true,
+                    "authorUsername": "mohamm6",
+                    "title": "شاشة ايباد ميني",
+                    "city": "جده",
+                    "postDate": 1655915012,
+                    "updateDate": 1655915012,
+                    "hasImage": true,
+                    "thumbURL": "675x900_B710C65B-F4BA-4D05-B879-88D51CD5DD05.jpg",
+                    "authorId": 14576070
+                },
+                {
+                    "id": 95978469,
+                    "status": true,
+                    "authorUsername": "jeje655555",
+                    "title": "كم عمولة الموقع",
+                    "city": "الرياض",
+                    "postDate": 1655915007,
+                    "updateDate": 1655915007,
+                    "hasImage": false,
+                    "thumbURL": "",
+                    "authorId": 13105884
+                },
+                {
+                    "id": 95978462,
+                    "status": true,
+                    "authorUsername": "ابو عبدالله 1800",
+                    "title": "رقم مميز",
+                    "city": "الرياض",
+                    "postDate": 1655914997,
+                    "updateDate": 1655914997,
+                    "hasImage": true,
+                    "thumbURL": "900x698_0552D5E6-694A-4687-B52D-D1A2F386445A.jpg",
+                    "authorId": 3765738
+                },
+                {
+                    "id": 95978461,
+                    "status": true,
+                    "authorUsername": "mohamed7701",
+                    "title": "غسالة جديدة للبيعع",
+                    "city": "الشرقيه",
+                    "postDate": 1655914997,
+                    "updateDate": 1655914997,
+                    "hasImage": true,
+                    "thumbURL": "675x900_07BFFD79-FA06-4256-A670-81200F939A33.jpg",
+                    "authorId": 5997133
+                },
+                {
+                    "id": 95978454,
+                    "status": true,
+                    "authorUsername": "عضو 9330946",
+                    "title": "السلام عليكم",
+                    "city": "القصيم",
+                    "postDate": 1655914984,
+                    "updateDate": 1655914984,
+                    "hasImage": false,
+                    "thumbURL": "",
+                    "authorId": 15678222
+                },
+                {
+                    "id": 95978438,
+                    "status": true,
+                    "authorUsername": "sqwe_",
+                    "title": "فيفا بوينت 2200",
+                    "city": "جده",
+                    "postDate": 1655914972,
+                    "updateDate": 1655914972,
+                    "hasImage": true,
+                    "thumbURL": "402x397-1_-GO__MTY1NTkxNDgyNzcyOTAwNjkyMTg0Ng.jpg",
+                    "authorId": 16192881
+                },
+                {
+                    "id": 95978424,
+                    "status": true,
+                    "authorUsername": "فارس بن نواف 2907272",
+                    "title": "ايفون 11",
+                    "city": "مكه",
+                    "postDate": 1655914964,
+                    "updateDate": 1655914964,
+                    "hasImage": true,
+                    "thumbURL": "800x600-1_-GO__MTY1NTg0ODA0MDc4MDcxNjI3Mjc4OQ.jpg",
+                    "authorId": 17295887
+                },
+                {
+                    "id": 95978420,
+                    "status": true,
+                    "authorUsername": "ممتاز  6055788",
+                    "title": "سماعة برو درجه اولى",
+                    "city": "الشرقيه",
+                    "postDate": 1655914959,
+                    "updateDate": 1655914959,
+                    "hasImage": true,
+                    "thumbURL": "477x900_BEF56951-37C0-486A-A2C1-E31887339B8F.jpg",
+                    "authorId": 1293603
+                },
+                {
+                    "id": 95978406,
+                    "status": true,
+                    "authorUsername": "abu khawlan",
+                    "title": "ايفون 13 عادي للبدل بايفون 13 زيتي",
+                    "city": "نجران",
+                    "postDate": 1655914945,
+                    "updateDate": 1655914945,
+                    "hasImage": true,
+                    "thumbURL": "352x264-1_-kqqxSiQLc07liZ.jpg",
+                    "authorId": 1958907
+                },
+                {
+                    "id": 95978401,
+                    "status": true,
+                    "authorUsername": "محمد حوباني موحامد حوباني",
+                    "title": "اكس بوكس سيريس إس xbox",
+                    "city": "الرياض",
+                    "postDate": 1655914938,
+                    "updateDate": 1655914938,
+                    "hasImage": true,
+                    "thumbURL": "282x500-1_-JMPFV0TNSSitZx.jpg",
+                    "authorId": 17295247
+                },
+                {
+                    "id": 95978399,
+                    "status": true,
+                    "authorUsername": "eiad_98",
+                    "title": "شاحن ايفون اصلي 20W",
+                    "city": "الشرقيه",
+                    "postDate": 1655914938,
+                    "updateDate": 1655914938,
+                    "hasImage": true,
+                    "thumbURL": "506x900_83A1C3BA-0C47-4E32-8E00-43CE3F108C24.jpg",
+                    "authorId": 2870197
+                },
+                {
+                    "id": 95978393,
+                    "status": true,
+                    "authorUsername": "vasg615",
+                    "title": "ايفون 11 برو ماكس 256",
+                    "city": "الرياض",
+                    "postDate": 1655914932,
+                    "updateDate": 1655914932,
+                    "hasImage": true,
+                    "thumbURL": "744x900_92AA9B4A-C1D5-406A-B13B-7425087DEDCD.jpg",
+                    "authorId": 14507643
+                },
+                {
+                    "id": 95978388,
+                    "status": true,
+                    "authorUsername": "demo5187",
+                    "title": "جوال 13 بروماكس 512 لون ازرق بكرتونه",
+                    "city": "أبها",
+                    "postDate": 1655914928,
+                    "updateDate": 1655914928,
+                    "hasImage": true,
+                    "thumbURL": "415x900_2D0F26AA-C287-4A22-A645-EC598E2D5FBF.jpg",
+                    "authorId": 1675755
+                },
+                {
+                    "id": 95978386,
+                    "status": true,
+                    "authorUsername": "bandr alsultany",
+                    "title": "سماعة كورسير",
+                    "city": "عرعر",
+                    "postDate": 1655914926,
+                    "updateDate": 1655914926,
+                    "hasImage": true,
+                    "thumbURL": "576x432_B9BC8734-5FF5-4CE2-B199-3CC255E8DCC8.jpg",
+                    "authorId": 2111917
+                }
+            ],
+            "pageInfo": {
+                "hasNextPage": true
+            }
+        }
+    }
+}
