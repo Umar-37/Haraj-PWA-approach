@@ -20,28 +20,24 @@
     //   loadUsers()
     //   console.log(users)
     //console.log(store.state.products[0])
-    store.dispatch("getItems");
+    store.dispatch("getItems",{page:1});
     let items=[];
     $: console.log("the $ sign says: ", items);
         useStore(store,'gettItems',(value)=>{
+            //console.log("inside suerStore",store.state.items)
+            //console.log("inside suerStore",store.getters.filterTime)
             items=[...items,...value]
-            console.log("inside suerStore",items)
-            console.log("inside suerStore",items)
+            //console.log("inside suerStore",items)
         })
         
 
     ///////////////////
     function name(params) {
         setTimeout(() => {
-            console.log("called", items);
-            console.log("called2", store.state.items);
-            // items = [
-            //     ...store.state.items,
-            //     { id: "new itemmmm", bodyTEXT: "from seet time out" },
-            //     { id: "new itemmmm", bodyTEXT: "from seet time out" },
-            //     { id: "new itemmmm", bodyTEXT: "from seet time out" },
-            // ];
+        console.log('before',items)
+
         }, 3000);
+        console.log('after',items)
     }
     //////////k
     console.log("from omar.svelte", items);
@@ -81,7 +77,9 @@
         <CustomCard
             title={item.title}
             content={item.bodyTEXT}
+            id={item.id}
             img={url1 + item.thumbURL + url3}
+            images={item.imagesList}
         />
     {/each}
 </Page>
