@@ -5,10 +5,11 @@
     export let content = "default content";
     export let title = "Framework7 yayy";
     export let id = 0;
-    export let images = false;
+    export let images = true;
 
     let thumb = "";
     function hideThumb(params) {
+        images=true
         thumb = document.getElementById(`${id}`);
         thumb.style.display = "none";
     }
