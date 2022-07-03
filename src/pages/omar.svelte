@@ -20,14 +20,11 @@
     //   loadUsers()
     //   console.log(users)
     //console.log(store.state.products[0])
-    store.dispatch("getItems",{page:1});
+    store.dispatch("getItems",{page:2});
     let items=[];
     $: console.log("the $ sign says: ", items);
-        useStore(store,'gettItems',(value)=>{
-            //console.log("inside suerStore",store.state.items)
-            //console.log("inside suerStore",store.getters.filterTime)
+        useStore(store,'gettItemsDetail',(value)=>{
             items=[...items,...value]
-            //console.log("inside suerStore",items)
         })
         
 
