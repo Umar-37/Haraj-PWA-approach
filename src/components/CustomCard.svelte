@@ -9,13 +9,16 @@
 
     let thumb = "";
     function hideThumb(params) {
-        //images=true
+        console.log("show")
+        images=true
         thumb = document.getElementById(`${id}`);
         thumb.style.display = "none";
     }
     function showThumb(params) {
+        console.log("hide")
+        images=true
         thumb.style.display = "block";
-        //images=false
+        images=false
     }
 </script>
 
